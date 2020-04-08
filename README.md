@@ -19,6 +19,15 @@ https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
 ```bash
 python tf_text_graph_ssd.py --input frozen_inference_graph.pb --config ssd_mobilenet_v2_coco.config --output graph.pbtxt
 ```
+
+# Usage
+ 
+サンプルの実行方法は以下です。
+ 
+```bash
+python hsv_mask_extracter.py
+```
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
