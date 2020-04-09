@@ -37,4 +37,9 @@ OpenCV-readNetFromTensorflow-sample is under [MIT license](https://en.wikipedia.
 # OpenCV License
 OpenCVはBSDライセンスの元で配布されています。
 
+本リポジトリでは以下を使用しています。
+* tf_text_graph_ssd.py
+* tf_text_graph_common.py
+* ssd_mobilenet_v2_coco.config
+
 https://github.com/opencv/opencv/blob/master/LICENSE
