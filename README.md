@@ -25,7 +25,7 @@ python tf_text_graph_ssd.py --input frozen_inference_graph.pb --config ssd_mobil
 サンプルの実行方法は以下です。
  
 ```bash
-python hsv_mask_extracter.py
+python sample.py
 ```
 
 # Author
